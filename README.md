@@ -27,4 +27,7 @@ I'm always open to chat about technical projects, historical curiosities, or tea
 
 ---
 
-> “We feel and know by experience that we are eternal.” -- Spinoza, Ethics, Part V, Prop. 23, Schol.
+<p align="center">
+“We feel and know by experience that we are eternal.”  
+— Spinoza, *Ethics*, Part V, Prop. 23, Schol.
+</p>
