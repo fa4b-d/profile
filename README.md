@@ -29,5 +29,5 @@ I'm always open to chat about technical projects, historical curiosities, or tea
 
 <p align="center">
 “We feel and know by experience that we are eternal.”  
-— Spinoza, _Ethics_, Part V, Prop. 23, Schol.
+— Spinoza, _Ethics_ , Part V, Prop. 23, Schol.
 </p>
