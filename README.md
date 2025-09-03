@@ -27,4 +27,4 @@ I'm always open to chat about technical projects, historical curiosities, or tea
 
 ---
 
-> “Curious and methodical, I enjoy optimizing my digital environment and exploring technical projects ranging from storage to connected devices.”
+> “We feel and know by experience that we are eternal.” -- Spinoza, Ethics, Part V, Prop. 23, Schol.
